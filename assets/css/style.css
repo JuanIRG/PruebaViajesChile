@@ -4,6 +4,10 @@
 
 /* navbar */
 
+
+.navbar a{
+    color: white;
+}
 .navbar img{
     width: 25px;
 
@@ -11,7 +15,7 @@
 
 
 /* Hero Section */
-.item1{
+/* .item1{
     background-image: url("../img/carousel1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -32,7 +36,7 @@
     background-size: cover;
     background-position:center;
     height:100vh;
-}
+} */
 
 /* Section quienes somos */
 
@@ -51,4 +55,32 @@
 
 #cont-ico{
 background-color: #2c9ca8;
+}
+
+/* Destacados */
+
+#destacados{
+    background-color: black;
+    color:white;
+}
+#destacados hr{
+    background-color: #2c9ca8;
+}
+
+#destacados .card-body{
+    background-color: #2c9ca8;
+}
+
+/* Contacto */
+
+#contacto{
+    background-color:black;
+    color:white;
+}
+#contacto hr{
+    background-color: #2c9ca8;
+}
+
+#contacto .btn-color{
+    background-color: #2c9ca8;
 }
