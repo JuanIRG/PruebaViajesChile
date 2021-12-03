@@ -72,6 +72,9 @@ background-color: #2c9ca8;
 }
 
 /* Contacto */
+#formulario{
+    display:none;
+}
 
 #contacto{
     background-color:black;
