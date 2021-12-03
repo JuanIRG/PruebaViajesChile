@@ -2,6 +2,53 @@
     font-family: 'Roboto', sans-serif;
 }
 
+/* navbar */
+
+.navbar img{
+    width: 25px;
+
+}
 
 
 /* Hero Section */
+.item1{
+    background-image: url("../img/carousel1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    height:100vh;
+}
+.item2{
+    background-image: url("../img/carousel2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    height:100vh;
+}
+
+.item3{
+    background-image: url("../img/carousel3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    height:100vh;
+}
+
+/* Section quienes somos */
+
+#quienes-somos{
+    background-color: black;
+    color:white;
+}
+
+#quienes-somos hr{
+    background-color: #2c9ca8;
+}
+
+#quieres-somos p{
+    font-weight: 100;
+}
+
+#cont-ico{
+background-color: #2c9ca8;
+}
